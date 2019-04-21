@@ -1,0 +1,3 @@
+#This is a sample prog
+
+print("Hello world")
