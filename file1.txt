@@ -1,3 +1,5 @@
 #This is a sample prog
 
 print("Hello world")
+
+val a = 10
